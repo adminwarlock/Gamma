@@ -1,4 +1,0 @@
-# Gamma
-webapp
-
-test
