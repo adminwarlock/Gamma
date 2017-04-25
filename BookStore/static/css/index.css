@@ -1,0 +1,13 @@
+.container-warp{
+	height: 100%;
+	overflow: hidden;
+	position: relative;
+}
+.container-scroll{
+	position: absolute;
+	top:45px;
+	bottom:0px;
+	left:0px;
+	right: 0px;
+	overflow-y:scroll;
+}
